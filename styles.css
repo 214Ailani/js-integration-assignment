@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #333;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+
+#specials {
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+#seasontips {
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.winter {
+    border: 2px solid #00f;
+    padding: 10px;
+}
+
+.spring {
+    border: 2px solid #d7d;
+    padding: 10px;
+}
+
+.summer {
+    border: 2px solid #006400;
+    padding: 10px;
+}
+
+.fall {
+    border: 2px solid #930;
+    padding: 10px;
+}
